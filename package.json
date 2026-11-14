@@ -42,7 +42,7 @@
     "@actions/core": "^3.0.1",
     "@actions/exec": "^3.0.0",
     "@iarna/toml": "^2.2.5",
-    "semver": "^7.7.2"
+    "semver": "^7.8.6"
   },
   "devDependencies": {
     "@eslint/js": "^10.0.1",
